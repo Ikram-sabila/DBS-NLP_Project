@@ -49,8 +49,7 @@ Dataset berisi ulasan pengguna aplikasi **Livin' by Mandiri** yang dikumpulkan s
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/Ikram-sabila/DBS-NLP_Project.git
 
 2. Install dependencies:
    ```bash
